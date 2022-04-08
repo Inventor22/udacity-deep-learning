@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 Course 5 - Generative Adversarial Networks/Lesson 2 Section 9 - dcgan-svhn/data/train_32x32.mat
+Course 5 - Generative Adversarial Networks/project-face-generation/processed-celeba-small.zip
